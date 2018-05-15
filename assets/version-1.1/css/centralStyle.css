@@ -1,0 +1,104 @@
+body, html {
+  height: 100%;
+}
+
+a{
+  font-family: Pacifico;
+  font-size: large;
+}
+
+.main-background{
+
+  /*height: 100%;*/
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background: url('../images/background.jpg') no-repeat center;
+  background-size: cover;
+
+}
+
+.center-div{
+  color: #333333;
+  /*height: 150px;*/
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  /*display: flex;*/
+  float: none;
+}
+
+.fl-marked{
+  color: yellow!important;
+}
+
+.fl-unmarked{
+  color: black!important;
+}
+
+.top-space{
+  margin-top: 2%;
+}
+
+.box
+{
+  border: 2px solid rgba(153, 153, 153, 0.75);
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -khtml-border-radius: 2px;
+  -o-border-radius: 2px;
+  opacity: 0.8;
+  background-color: black;
+  height: auto;
+
+}
+
+
+.inputBoxDark{
+
+  background-color: black !important;
+  border-radius: 10px !important;
+  color: white !important;
+
+}
+
+
+
+gallery {
+  border: 1px solid #ccc;
+}
+
+gallery:hover {
+  border: 1px solid #777;
+}
+
+gallery img {
+  width: 100%;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+ }
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}

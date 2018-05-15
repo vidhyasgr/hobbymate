@@ -1,0 +1,15 @@
+{
+  "first_name": "kavin",
+  "last_name": "prab",
+  "date_of_birth": "2018-03-22",
+  "city": "Görlitz",
+  "country": "Germany",
+  "email_id": "kavin14@gmail.com",
+  "mobile_number": null,
+  "get_notification_for_new_request": 0,
+  "picture_url": null,
+  "password": "a",
+  "interest": "Photography",
+  "looking_for_freelancing_projects": 0,
+  "description": null
+}

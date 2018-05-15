@@ -1,0 +1,106 @@
+[
+  {
+    "country": "Germany",
+    "cityName": "Görlitz",
+    "firstName": "vidhya",
+    "lastName": "sagar",
+    "dateOfBirth": null,
+    "emailId": "vidhyasgr8080@gmail.com",
+    "mobileNumber": null,
+    "hobby": "Guitarist",
+    "description": "I am awesome",
+    "isLookingForFreelancingProjects": 1,
+    "distance" : 20,
+    "isFollowing" : false
+  },
+  {
+    "country": "Deutschland",
+    "cityName": "Görlitz",
+    "firstName": "Marie",
+    "lastName": "Louisa",
+    "dateOfBirth": "2010-12-14",
+    "emailId": "maria@gmail.com",
+    "mobileNumber": null,
+    "hobby": "Photography",
+    "description": null,
+    "isLookingForFreelancingProjects": 0,
+    "distance" : 40,
+    "isFollowing" : false
+
+  },
+  {
+    "country": "Germany",
+    "cityName": "Görlitz",
+    "firstName": "Natasha",
+    "lastName": "nothing",
+    "dateOfBirth": "2010-12-06",
+    "emailId": "natasha@gmail.com",
+    "mobileNumber": null,
+    "hobby": "Photography",
+    "description": null,
+    "isLookingForFreelancingProjects": 0,
+    "distance" : 20,
+    "isFollowing" : false
+
+  },
+  {
+    "country": "Germany",
+    "cityName": "Görlitz",
+    "firstName": "Natasha",
+    "lastName": "nothing",
+    "dateOfBirth": "2010-12-06",
+    "emailId": "natasha@gmail.com",
+    "mobileNumber": null,
+    "hobby": "Photography",
+    "description": null,
+    "isLookingForFreelancingProjects": 0,
+    "distance" : 20,
+    "isFollowing" : false
+
+  },
+  {
+    "country": "Germany",
+    "cityName": "Görlitz",
+    "firstName": "Natasha",
+    "lastName": "nothing",
+    "dateOfBirth": "2010-12-06",
+    "emailId": "natasha@gmail.com",
+    "mobileNumber": null,
+    "hobby": "Photography",
+    "description": null,
+    "isLookingForFreelancingProjects": 0,
+    "distance" : 100,
+    "isFollowing" : false
+
+  },
+  {
+    "country": "Germany",
+    "cityName": "Görlitz",
+    "firstName": "Natasha",
+    "lastName": "nothing",
+    "dateOfBirth": "2010-12-06",
+    "emailId": "natasha@gmail.com",
+    "mobileNumber": null,
+    "hobby": "Photography",
+    "description": null,
+    "isLookingForFreelancingProjects": 0,
+    "distance" : 120,
+    "isFollowing" : false
+
+  },
+  {
+    "country": "Germany",
+    "cityName": "Görlitz",
+    "firstName": "Natasha",
+    "lastName": "nothing",
+    "dateOfBirth": "2010-12-06",
+    "emailId": "natasha@gmail.com",
+    "mobileNumber": null,
+    "hobby": "Photography",
+    "description": null,
+    "isLookingForFreelancingProjects": 0,
+    "distance" : 30,
+    "isFollowing" : false
+
+  }
+]
